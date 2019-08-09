@@ -5,7 +5,7 @@ int main(){
 
 int numberOfStudents;
 
-while( scanf("%d", &numberOfStudents) != EOF){
+while( scanf("%d", &numberOfStudents) ){
 
 if(numberOfStudents == 0 ){
 
